@@ -46,6 +46,9 @@ function App() {
             path='/saved' 
             element={<SavedBooks />} 
           />
+          <Route
+            path='*'
+            element={<h1>Error!</h1>} />
         </Routes>
       </>
     </Router>
