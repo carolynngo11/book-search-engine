@@ -17,7 +17,7 @@ Used apollo, express, graphql, mongo, bcrypt, jsonwebtoken, mongoose, and Heroku
 ## Usage
 Example
 
-![portfolio-screenshot](Assets\21-mern-homework-demo-01.gif)
+![portfolio-screenshot](21-mern-homework-demo-01.gif)
 
 Deployment Application Link: https://book-searcher-engine.herokuapp.com/
 
