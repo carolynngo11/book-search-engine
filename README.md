@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-The objective of this project is to create a...
+The objective of this project is to create an application for users to search for book titles which users can save. The saved books are accessible in the library collection which users can either look at later or have the option to delete.
 
 ## Table of Contents
       
